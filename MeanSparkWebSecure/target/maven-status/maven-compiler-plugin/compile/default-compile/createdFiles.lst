@@ -1,0 +1,13 @@
+edu\escuelaing\arep\meansparkwebsecure\readers\Reader.class
+edu\escuelaing\arep\meansparkwebsecure\structures\LinkedListG.class
+edu\escuelaing\arep\meansparkwebsecure\calculator\Calculator$IntegerMath.class
+edu\escuelaing\arep\meansparkwebsecure\structures\LinkedListG$1.class
+edu\escuelaing\arep\meansparkwebsecure\MeanSparkService.class
+edu\escuelaing\arep\meansparkwebsecure\calculator\CalculatorException.class
+edu\escuelaing\arep\meansparkwebsecure\readers\StringReader$1.class
+edu\escuelaing\arep\meansparkwebsecure\readers\StringReader.class
+edu\escuelaing\arep\meansparkwebsecure\structures\LinkedListG$ListIteratorG.class
+edu\escuelaing\arep\meansparkwebsecure\readers\FileReaderColumns.class
+edu\escuelaing\arep\meansparkwebsecure\structures\NodeLinkedListG.class
+edu\escuelaing\arep\meansparkwebsecure\calculator\Calculator$DoubleMath.class
+edu\escuelaing\arep\meansparkwebsecure\calculator\Calculator.class
